@@ -1,3 +1,3 @@
-# Motivo
+# NOTAS
 
-Este repositorio sirve para probar cosas
+Este rproyecto se encarga de planes
