@@ -1,2 +1,1 @@
-#NOTA
-Agrege a erick
+#NOTA Agrege a erick TE WQUEDASSS
